@@ -1,2 +1,3 @@
-# -selenium-
-# 码住 有空写
+# Scripts
+Useful scripts for daily life:
+- selenium for logining in dangdang
